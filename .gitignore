@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.class
+env/
+venv/
+.mypy_cache/
+.mc-finance/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+plots/
+reports/*.pdf
+*.csv
+data/
+!data/.gitkeep
