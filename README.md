@@ -1,3 +1,8 @@
+## Author
+
+Jiawei Wang
+Undergraduate in Mathematics @ University College London(UCL)
+
 # Monte Carlo Methods in Finance
 
 This project explores the application of Monte Carlo simulations in financial modeling. It includes implementations and visualizations of Brownian Motion, Geometric Brownian Motion, and interest rate models using Python.
@@ -28,7 +33,5 @@ pip install notebook numpy matplotlib
 # Launch Jupyter Notebook
 jupyter notebook
 
-## Author
 
-Jiawei Wang
-Undergraduate in Mathematics @ University College London(UCL)
+
